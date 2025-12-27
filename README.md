@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JPMC Stock Risk Analysis (2020-2025)
 **Author:** Socrates Gomes  
 **Objective:** Identify systemic risk events and price anomalies in JPMorgan Chase & Co. stock using Z-Score statistical analysis.
@@ -26,3 +27,7 @@ Boxplot analysis showing the concentration of outliers in returns.
 * **Z-Score Calculation:** Used to isolate events statistically rare (less than 0.3% probability).
 * **Seaborn/Matplotlib:** High-resolution statistical data visualization.
 * **Data Source:** JPMC Historical Data (Kaggle).
+=======
+# jpmc-stock-risk-analysis
+Professional financial analysis of JPMC stock (2020-2025) identifying risk patterns and 'Black Swan' events through Z-Score and volume correlation.
+>>>>>>> d14d1bcb28732e97a3cb44559b87d6bf6b115046
